@@ -73,16 +73,20 @@ RUya est une application web complète développée pour Attijari Bank qui perme
 ## Captures d'écran
 
 ### Connexion
-![Page de Connexion](./screenshots/login.png)
+![Page de Connexion](./screenshots/SI.png)
 *Interface de connexion sécurisée avec option "Se souvenir de moi"*
 
 ### Inscription
-![Page d'Inscription](./screenshots/register.png)
+![Page d'Inscription](./screenshots/SU.png)
 *Formulaire d'inscription avec validation des champs*
 
 ### Tableau de Bord
 ![Tableau de Bord](./screenshots/dashboard.png)
 *Vue d'ensemble des flux de compensation avec l'Assistant RUya*
+
+### Assistant RUya (Chatbot)
+![Chatbot RUya](./screenshots/chatbot.png)
+*Assistant intelligent pour l'analyse des montants et le support utilisateur*
 
 ### Profil Utilisateur
 ![Profil Utilisateur](./screenshots/profile.png)
